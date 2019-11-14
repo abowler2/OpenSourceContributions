@@ -5,6 +5,8 @@
    * Oct 2019 - (6 commits) https://github.com/mozilla/pontoon/commits?author=abowler2&since=2019-10-01&until=2019-11-01
 
 ### Inland Empire Software Developers Main website
+ * Fixed mobile menu not opening submenus
+   * https://github.com/inland-empire-software-development/main/commits?author=abowler2&since=2019-11-01&until=2019-11-15
  * Fixed spacing on mobile view of homepage for the Blog post section
    * https://github.com/inland-empire-software-development/main/pull/83
  
