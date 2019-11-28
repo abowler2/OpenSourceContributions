@@ -2,6 +2,7 @@
 
 ### Mozilla / Pontoon
  * Provided several patches ranging from simple fixes to adding new features
+   * Nov 2019 - [Added ability to use localization as source language](https://github.com/mozilla/pontoon/commits?author=abowler2&since=2019-11-01&until=2019-11-29)
    * Oct 2019 - [6 contributions](https://github.com/mozilla/pontoon/commits?author=abowler2&since=2019-10-01&until=2019-11-01)
 
 ### Inland Empire Software Developers Main website
