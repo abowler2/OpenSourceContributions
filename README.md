@@ -1,4 +1,4 @@
-# Contributions
+# Open Source Contributions
 
 ### Mozilla / Pontoon
  * Provided several patches ranging from simple fixes to adding new features
