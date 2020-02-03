@@ -2,6 +2,7 @@
 
 ### Mozilla / Pontoon
  * Provided several patches ranging from simple fixes to adding new features
+   * Feb 2020 - [Fix Bug 1611512 - Add ability for Add Comment input to grow as you type](https://github.com/mozilla/pontoon/pull/1546)
    * Jan 2020 - 
      - [Fix Bug 1603610 - Enable users to leave comments on translations](https://github.com/mozilla/pontoon/pull/1524)
      - [No bug - Add a guide to first Pontoon contribution.](https://github.com/mozilla/pontoon/pull/1532)
