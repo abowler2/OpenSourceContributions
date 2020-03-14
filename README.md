@@ -2,6 +2,7 @@
 
 ### Mozilla / Pontoon
  * Provided several patches ranging from simple fixes to adding new features
+   * Mar 2020 - [Fix Bug 1611508: Implement team comments](https://github.com/mozilla/pontoon/commits?author=abowler2&since=2020-03-01&until=2020-03-15)
    * Feb 2020 - [Fix Bug 1611512 - Add ability for Add Comment input to grow as you type](https://github.com/mozilla/pontoon/pull/1546)
    * Jan 2020 - 
      - [Fix Bug 1603610 - Enable users to leave comments on translations](https://github.com/mozilla/pontoon/pull/1524)
