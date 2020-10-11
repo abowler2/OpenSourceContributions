@@ -2,6 +2,14 @@
 
 ### Mozilla / Pontoon
  * Provided several patches ranging from simple fixes to adding new features
+   * Oct 2020 - 
+     - [https://github.com/mozilla/pontoon/pull/1702](https://github.com/mozilla/pontoon/pull/1702)
+     - [Authentication Error bug fix](https://github.com/mozilla/pontoon/pull/1700)
+     - [Fix Bug 1601987 - Fix ability to resize translation textarea](https://github.com/mozilla/pontoon/pull/1693)
+   * Sep 2020 - 
+     - [Fix Bug 1615565: Use prettier to format frontend code](https://github.com/mozilla/pontoon/pull/1688)
+     - [Fix Bug 1611510 - Add ability to pin team comments](https://github.com/mozilla/pontoon/pull/1684)
+   * Apr-Aug 2020 - [Fix Bug 1611510 - Implement Source String Comments](https://github.com/mozilla/pontoon/pull/1623)
    * Mar 2020 - [Fix Bug 1611508: Implement team comments](https://github.com/mozilla/pontoon/commits?author=abowler2&since=2020-03-01&until=2020-03-15)
    * Feb 2020 - [Fix Bug 1611512 - Add ability for Add Comment input to grow as you type](https://github.com/mozilla/pontoon/pull/1546)
    * Jan 2020 - 
@@ -16,4 +24,5 @@
  * [Fixed spacing on mobile view of homepage for the Blog post section](https://github.com/inland-empire-software-development/main/pull/83)
  
 ### Changelog Podcast / Transcripts
+ * [JS-Party-112 - transcript edits](https://github.com/thechangelog/transcripts/pull/819)
  * [Edited transcripts to eliminate as many 'unintelligible' areas as possible](https://github.com/thechangelog/transcripts/commits?author=abowler2&since=2019-10-08&until=2019-10-09)
