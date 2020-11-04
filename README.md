@@ -2,8 +2,11 @@
 
 ### Mozilla / Pontoon
  * Provided several patches ranging from simple fixes to adding new features
+   * Nov 2020 - 
+     - [Fix Rich Editor crash](https://github.com/mozilla/pontoon/pull/1725)
+     - [Insert Project Manager into team comment via button](https://github.com/mozilla/pontoon/pull/1676)
    * Oct 2020 - 
-     - [https://github.com/mozilla/pontoon/pull/1702](https://github.com/mozilla/pontoon/pull/1702)
+     - [Unable to authorize with GitHub](https://github.com/mozilla/pontoon/pull/1702)
      - [Authentication Error bug fix](https://github.com/mozilla/pontoon/pull/1700)
      - [Fix Bug 1601987 - Fix ability to resize translation textarea](https://github.com/mozilla/pontoon/pull/1693)
    * Sep 2020 - 
