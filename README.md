@@ -3,7 +3,7 @@
 ### Mozilla / Pontoon
  * Provided several patches ranging from simple fixes to adding new features
    * Nov 2020 - 
-     - [Fix RTL in commnents](https://github.com/mozilla/pontoon/pull/1741)
+     - [Fix RTL in comments](https://github.com/mozilla/pontoon/pull/1741)
      - [Fix Rich Editor crash](https://github.com/mozilla/pontoon/pull/1725)
      - [Insert Project Manager into team comment via button](https://github.com/mozilla/pontoon/pull/1676)
    * Oct 2020 - 
