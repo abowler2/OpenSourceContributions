@@ -2,6 +2,10 @@
 
 ### Mozilla / Pontoon
  * Provided several patches ranging from simple fixes to adding new features
+   * Dec 2020 - 
+     - [Ignore Prettier format commits on blame](https://github.com/mozilla/pontoon/pull/1759)
+     - [Add ability to reset Machinery search field](https://github.com/mozilla/pontoon/pull/1754)
+     - [Move Prettier into main folder](https://github.com/mozilla/pontoon/pull/1749)
    * Nov 2020 - 
      - [Fix RTL in comments](https://github.com/mozilla/pontoon/pull/1741)
      - [Fix Rich Editor crash](https://github.com/mozilla/pontoon/pull/1725)
